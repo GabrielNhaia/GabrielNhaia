@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 I’m currently working Intern at tree tools as support analyst
+- 🔭 I’m currently working Intern at group abrascort help desk it
 - 🌱 I’m currently learning Graduation information systems
 
 ##
