@@ -1,7 +1,8 @@
-### Hello i'm the Gabriel! 👋
+### Hello i'm Gabriel! 👋
 
 ##
 
+- 👨‍💻 I'm Great programming enthusiast
 - 🔭 I’m currently working Intern at group abrascort help desk it and programming.
 - 🌱 I’m currently learning Graduation information systems.
 
