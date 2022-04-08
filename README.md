@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 I’m currently working Intern at group abrascort help desk it
-- 🌱 I’m currently learning Graduation information systems
+- 🔭 I’m currently working Intern at group abrascort help desk it and programming.
+- 🌱 I’m currently learning Graduation information systems.
 
 ##
 <h2>Interests & Learnings 📖</h2>
