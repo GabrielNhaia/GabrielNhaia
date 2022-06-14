@@ -43,7 +43,7 @@ And
 ##
 <h2>My Notebook 💻</h2>
 
-Notebook DELL Inspirion 3501
-Intel(R) Pentium(R) Gold 7505 @ 2.00GHz   2.00 GHz
-Memória RAM: 12,0 GB
+Notebook DELL Inspirion 3501<br><br>
+Intel(R) Pentium(R) Gold 7505 @ 2.00GHz   2.00 GHz<br><br>
+Memória RAM: 12,0 GB<br>
 ##
