@@ -42,5 +42,7 @@ And
 ##
 
 Notebook DELL Inspirion 3501
+#s
 Intel(R) Pentium(R) Gold 7505 @ 2.00GHz   2.00 GHz
+#
 Memória RAM: 12,0 GB
