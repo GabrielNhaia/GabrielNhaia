@@ -34,3 +34,13 @@
 <a><img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
 
 <a><img src="https://img.shields.io/badge/Intel-Core_i3_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
+
+##
+
+And
+
+##
+
+Notebook DELL Inspirion 3501
+Intel(R) Pentium(R) Gold 7505 @ 2.00GHz   2.00 GHz
+Memória RAM: 12,0 GB
