@@ -34,8 +34,9 @@
 
 <a><img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
 
-<a><img src="https://img.shields.io/badge/Intel-Core_i3_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/AMD-Ryzen_5_4650G-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
 
+<a>img src ="https://www.pichau.com.br/computador-pichau-gamer-amd-ryzen-5-4650g-geforce-rtx-2060-12gb-8gb-ddr4-ssd-240gb-34153"</a>
 ##
 
 And
