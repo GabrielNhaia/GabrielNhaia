@@ -32,7 +32,7 @@
 
 <h2>My Workspace 🖥️</h2>
 
-<a><img src="https://img.shields.io/badge/NVIDIA-GTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
 
 <a><img src="https://img.shields.io/badge/Intel-Core_i3_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
 
