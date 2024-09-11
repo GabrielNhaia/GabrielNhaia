@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm Great programming enthusiast
 - 🔭 I’m currently working Intern at group abrascort help desk it and programming.
-- 🌱 I’m currently learning Graduation information systems.
+- 🌱 I currently have a degree in undergraduate information systems.
 
 ##
 <h2>Interests & Learnings 📖</h2>
