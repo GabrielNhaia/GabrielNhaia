@@ -5,7 +5,7 @@
 ##
 
 - 👨‍💻 I'm Great programming enthusiast
-- 🔭 I’m currently working Intern at group abrascort help desk it and programming.
+- 🔭 I'm currently working as a developer at diprotec in ruby ​​on rails.
 - 🌱 I currently have a degree in undergraduate information systems.
 
 ##
