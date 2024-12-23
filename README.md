@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/GabrielNhaia/GabrielNhaia/blob/output/github-contribution-grid-snake.svg)
+
 ###  Be Welcome!!
 
 <h2>Hello i'm Gabriel! 👋</h2>
