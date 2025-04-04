@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome to My GitHub! 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hello,+I'm+Gabriel!+%F0%9F%91%8B;Ruby+on+Rails+Developer+and+PHP+Developer%F0%9F%9A%80;Passionate+about+Technology+and+Innovation!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello,+I'm+Gabriel!+%F0%9F%91%8B;Ruby+on+Rails+Developer+and+PHP+Developer+%F0%9F%9A%80;Passionate+about+Technology+and+Innovation!">
 </p>
 
 ---
