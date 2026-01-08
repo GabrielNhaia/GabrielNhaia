@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me  
 - 💡 Passionate about programming and technology  
-- 🔭 Currently working as a **Ruby on Rails and PHP Developer** at Diprotec  
+- 🔭 Currently working as a **Ruby on Rails and PHP Developer**  
 - 🎓 Bachelor's degree in **Information Systems**  
 - 🌱 Always learning new technologies and improving my skills  
 
