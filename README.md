@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me  
 - 💡 Passionate about programming and technology  
 - 🔭 Currently working as a **Ruby on Rails and PHP Developer**  
-- 🎓 Bachelor's degree in **Information Systems**  
+- 🎓 Bachelor's degree in **Information Systems**. Currently pursuing a postgraduate degree in **Software Architecture, Data Science, and Cybersecurity**.  
 - 🌱 Always learning new technologies and improving my skills  
 
 ---
