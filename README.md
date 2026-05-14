@@ -116,7 +116,7 @@ const gabriel: Developer = {
 ## 🐍 &nbsp;Contribution snake
 
 <div align="center">
-  ![Snake animation](https://github.com)
+  ![snake gif](https://github.com/GabrielNhaia/GabrielNhaia/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <br/>
