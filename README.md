@@ -102,7 +102,7 @@ const gabriel: Developer = {
 
 <!-- =====  STATS  ====================================================== -->
 <a name="github-stats"></a>
-## 📊 &nbsp;GitHub stats
+<h2 align="center">📊 &nbsp;GitHub stats</h2>
 
 <div align="center">
 
