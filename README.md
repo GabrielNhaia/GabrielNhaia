@@ -106,15 +106,6 @@ const gabriel: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/gabrielnhaia">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielNhaia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="stats"/>
-</a>
-<a href="https://github.com/gabrielnhaia">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielNhaia&layout=compact&hide_border=true&langs_count=8&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="top languages"/>
-</a>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=gabrielnhaia&hide_border=true&background=0d1117&stroke=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170" alt="streak"/>
 
 <br/><br/>
