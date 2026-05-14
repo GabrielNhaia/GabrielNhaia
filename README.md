@@ -107,10 +107,10 @@ const gabriel: Developer = {
 <div align="center">
 
 <a href="https://github.com/gabrielnhaia">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielnhaia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielnhaia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="stats"/>
 </a>
 <a href="https://github.com/gabrielnhaia">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnhaia&layout=compact&hide_border=true&langs_count=8&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="top languages"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielnhaia&layout=compact&hide_border=true&langs_count=8&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="top languages"/>
 </a>
 
 <br/>
