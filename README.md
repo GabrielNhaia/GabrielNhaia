@@ -119,7 +119,7 @@ const gabriel: Developer = {
   <img src="https://raw.githubusercontent.com/gabrielnhaia/gabrielnhaia/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%"/>
 </div>
 
-> To enable the snake, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.
+![Snake animation](https://github.com)
 
 <br/>
 
