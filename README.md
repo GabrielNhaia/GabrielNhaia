@@ -153,6 +153,6 @@ const gabriel: Developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
-<sub>⭐ From <a href="https://github.com/gabrielnhaia">gabrielnhaia</a> &middot; Thanks for stopping by!</sub>
+<sub>⭐ From <a href="https://github.com/GabrielNhaia">gabrielnhaia</a> &middot; Thanks for stopping by!</sub>
 
 </div>
