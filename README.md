@@ -21,11 +21,22 @@
 <img src="https://img.shields.io/github/stars/gabrielnhaia?label=Stars&style=flat&color=0e75b6" alt="stars"/>
 </p>
 
+<p>
+  <a href="#about-me">About</a> &middot;
+  <a href="#tech-stack">Tech Stack</a> &middot;
+  <a href="#github-stats">Stats</a> &middot;
+  <a href="#contribution-snake">Snake</a> &middot;
+  <a href="#dev-quote">Quote</a>
+</p>
+
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" alt="separator"/>
+
 <!-- =====  ABOUT  ====================================================== -->
+<a name="about-me"></a>
 ## 👨‍💻 &nbsp;About me
 
 ```ts
@@ -42,7 +53,10 @@ const gabriel: Developer = {
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" alt="separator"/>
+
 <!-- =====  TECH STACK  ================================================= -->
+<a name="tech-stack"></a>
 ## 🛠️ &nbsp;Tech stack
 
 **Languages**
@@ -84,7 +98,10 @@ const gabriel: Developer = {
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" alt="separator"/>
+
 <!-- =====  STATS  ====================================================== -->
+<a name="github-stats"></a>
 ## 📊 &nbsp;GitHub stats
 
 <div align="center">
@@ -112,7 +129,10 @@ const gabriel: Developer = {
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" alt="separator"/>
+
 <!-- =====  SNAKE  ====================================================== -->
+<a name="contribution-snake"></a>
 ## 🐍 &nbsp;Contribution snake
 
 <div align="center">
@@ -121,7 +141,10 @@ const gabriel: Developer = {
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" alt="separator"/>
+
 <!-- =====  QUOTE  ====================================================== -->
+<a name="dev-quote"></a>
 ## 💭 &nbsp;Dev quote
 
 <div align="center">
@@ -131,6 +154,8 @@ const gabriel: Developer = {
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" alt="separator"/>
 
 <!-- =====  FOOTER  ===================================================== -->
 <div align="center">
