@@ -114,8 +114,6 @@ const gabriel: Developer = {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielnhaia&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="98%" alt="trophies"/>
-
 </div>
 
 <br/>
