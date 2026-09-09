@@ -41,8 +41,8 @@
 
 ```ts
 const gabriel: Developer = {
-  role:        "Ruby on Rails & PHP Engineer",
-  location:    "Brazil 🇧🇷",
+  role:        "IT Manager & Head of IT",
+  location:    "São Paulo 🇧🇷",
   education:   "BSc Information Systems",
   postgrad:    ["Software Architecture", "Data Science", "Cybersecurity"],
   focus:       ["clean code", "scalable systems", "developer experience"],
