@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=Gabriel%20Nhaia&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=Gabriel%20Nhaia&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20IT%20Manager%20&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://www.linkedin.com/in/gabrielnhaia/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Gabriel+%F0%9F%91%8B;Ruby+on+Rails+%E2%80%A2+PHP+%E2%80%A2+Full+Stack+Engineer;Building+things+for+the+web%2C+one+commit+at+a+time;Always+learning.+Always+shipping." alt="typing"/>
