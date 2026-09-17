@@ -43,7 +43,7 @@
 const gabriel: Developer = {
   role:        "IT Manager & Head of IT",
   location:    "São Paulo 🇧🇷",
-  education:   "BSc Information Systems",
+  education:   "Postgraduate in Software Architecture",
   postgrad:    ["Software Architecture", "Data Science", "Cybersecurity"],
   focus:       ["clean code", "scalable systems", "developer experience"],
   currently:   "shipping production Rails apps and exploring system design",
